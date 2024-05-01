@@ -5,14 +5,14 @@ import { HashLink } from 'react-router-hash-link';
 const NavBar = () => {
   const [nav, setNav] = useState(false);
   const links = [
-    // {id: 1,
-    //   link: "HOME",
-    // },
+    {id: 1,
+      link: "HOME",
+    },
     {
       id: 2,
       link: "ABOUT US",
     },
-    {
+   {
       id: 5,
       link: "CORE COMMITEE",
       
