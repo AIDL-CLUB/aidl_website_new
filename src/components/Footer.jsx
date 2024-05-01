@@ -13,7 +13,7 @@ const Footer = () => {
           <FaLinkedin size={30}/>
           </>
       ),
-      href:'https://www.linkedin.com/in/fcrit-aidl-group-2948b5228/',
+      href:'https://www.linkedin.com/company/artificial-intelligence-and-deep-learning-club-fcrit/mycompany/',
       style:'rounded-tr-md'
   },
   {
@@ -32,7 +32,7 @@ const Footer = () => {
           <HiOutlineMail size={30}/>
           </>
       ),
-      href:'mailto: aidl@gmail.com',
+      href:'mailto: fcrit.aidlofficial@gmail.com',
   },
   {
       id:4,
@@ -54,7 +54,7 @@ const Footer = () => {
       <div
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 text-center pt-2 font-normal text-white text-sm pb-4"
       >
-        <span>© 2023 AIDL CLUB FCRIT.</span>
+        <span>© 2024 AIDL CLUB FCRIT.</span>
         <span><Typography color="blue-gray" className="text-center font-normal text-white" >Developed by <a href="https://www.linkedin.com/in/shraddha-alawane-780334212">Technical Head - Shraddha Alawane &</a></Typography>
         <Typography color="blue-gray" className="text-center font-normal text-white" ><a href="https://www.linkedin.com/in/md-tahir-s-91b62422b/">Assi. Technical Head - MD Tahir </a>
   
