@@ -26,11 +26,11 @@ function Card({ title, description, imageSrc, descriptionUrl, exampleUrl }) {
         {description && <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">{description}</p>}
         <h1 className="font-dmserif text-2xl font-bold text-white">Learn More</h1>
         <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
-          <a className="text-white" href={descriptionUrl}>Description</a>
+          <a className="text-white" target="_blank" rel="noopener noreferrer"href={descriptionUrl}>Description</a>
         </button>
         <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
         <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">
-          <a className="text-white" href={exampleUrl}>Example</a>
+          <a className="text-white"target="_blank" rel="noopener noreferrer" href={exampleUrl}>Example</a>
         </button>
       </div>
     </div>
