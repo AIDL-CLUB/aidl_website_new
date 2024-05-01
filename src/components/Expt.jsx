@@ -85,28 +85,28 @@ function Expt() {
           />
           <Card 
             title="BackPropogation Algorithm" 
-            description="This is the description for BackPropogation Algorithm." 
+            description="In machine learning, backpropagation is a gradient estimation method used to train neural network models." 
             imageSrc={Expt6Image}
             descriptionUrl="https://www.techtarget.com/searchenterpriseai/definition/backpropagation-algorithm"
             exampleUrl="https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/"
           />
           <Card 
             title="CNN" 
-            description="This is the description for BackPropogation Algorithm." 
+            description="A Convolutional Neural Network (CNN) is a type of Deep Learning neural network architecture commonly used in Computer Vision." 
             imageSrc={Expt7Image}
             descriptionUrl="https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939"
             exampleUrl="https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network"
           />
           <Card 
             title="Naive Bayes" 
-            description="This is the description for BackPropogation Algorithm." 
+            description="Naïve Bayes is part of a family of generative learning algorithms, meaning that it seeks to model the distribution of inputs of a given class or category." 
             imageSrc={Expt8Image}
             descriptionUrl="https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners"
             exampleUrl="https://www.kdnuggets.com/2020/06/naive-bayes-algorithm-everything.html"
           />
           <Card 
             title="Automated Vehicles" 
-            description="This is the description for BackPropogation Algorithm." 
+            description="A vehicle that is fully automated will be capable of controlling all aspects of driving without human intervention." 
             imageSrc={Expt9Image}
             descriptionUrl="https://mindy-support.com/news-post/how-machine-learning-in-automotive-makes-self-driving-cars-a-reality/"
             exampleUrl="https://www.trendhunter.com/slideshow/autonomous-vehicles"
