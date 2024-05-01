@@ -53,7 +53,7 @@ function Expt() {
             description="K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster." 
             imageSrc={Expt1Image}
             descriptionUrl="https://medium.com/analytics-vidhya/to-start-with-k-means-clustering-1c6ee3cb840f"
-            exampleUrl="your_example_url_here"
+            exampleUrl="https://www.gatevidyalay.com/k-means-clustering-algorithm-example/"
           />
           <Card 
             title="Random Forest" 
@@ -66,8 +66,8 @@ function Expt() {
             title="DBSCAN" 
             description="Density-based spatial clustering of applications with noise (DBSCAN) is a data clustering algorithm proposed in 1996." 
             imageSrc={Expt3Image}
-            descriptionUrl="your_description_url_here"
-            exampleUrl="your_example_url_here"
+            descriptionUrl="https://www.geeksforgeeks.org/dbscan-clustering-in-ml-density-based-clustering/"
+            exampleUrl="https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html"
           />
           <Card 
             title="K Nearest Neighbors" 
