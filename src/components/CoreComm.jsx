@@ -24,7 +24,7 @@ return(
    <>
     <Container fluid className="corecomm-section" id="CORE COMMITEE">
     <div className="mt-0 justify-items-center gap-1 justify-items-center pt-10 text-gray-400 text-sm pb-8 sm:ml-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 text-center pt-2 font-normal text-white text-sm pb-4">
-    <p className="text-4xl font-bold inline border-b-4 border-gray-500 text-white pt-10 mt-10  ">Core Commitee 2023-2024
+    <p className="text-4xl font-bold inline border-b-4 border-gray-500 text-white pt-10 mt-10  ">Core Committee 2023-2024
         </p></div>
         <br />
       
@@ -39,10 +39,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">ChairPerson</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Aditya A</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/aditya-arockiadass-3529ab247/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/aditya-arockiadass-3529ab247/" target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Aditya101103">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Aditya101103"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -54,10 +54,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Vice Chairperson</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Austin Paul</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/austinpaul01">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/austinpaul01"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AustinPaul01">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AustinPaul01"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -69,10 +69,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Secretary</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Neil Coutinho</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/neil-ez/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/neil-ez/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Spriggan819">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Spriggan819"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -84,10 +84,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Secretary</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Harsh Khairnar</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/harsh-khairnar-844001227/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/harsh-khairnar-844001227/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/khairnarhg">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/khairnarhg"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -99,10 +99,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Technical Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Shruti Dalvi</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="http://www.linkedin.com/in/shrutidalvi14">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="http://www.linkedin.com/in/shrutidalvi14"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/dalvishruti14">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/dalvishruti14"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -114,10 +114,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Technical Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Stephen Mathew</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/stephen-mathew-ab1978232/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/stephen-mathew-ab1978232/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Stephenmathew03">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a clastarget="_blank" rel="noopener noreferrer"sName="text-white" href="https://github.com/Stephenmathew03">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -129,10 +129,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Technical Coordinator</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Joshua Vinu Koshy</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="http://www.linkedin.com/in/joshua-vinu-koshy-8328b7287">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="http://www.linkedin.com/in/joshua-vinu-koshy-8328b7287"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Joshua16VK">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Joshua16vinu"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -144,10 +144,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Communications Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Leona Alphonso</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/leona-alphonso-612b18243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/leona-alphonso-612b18243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/LeonaAlphonso">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/LeonaAlphonso"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -159,10 +159,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Communication Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Anushka Sawant</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/anushka-sawant-2511b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/anushka-sawant-2511b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AnushkaaaaS">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AnushkaaaaS"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -174,10 +174,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Event Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Angela Viju</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/angela-viju-2a650b268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/angela-viju-2a650b268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AnnelaViju">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AnnelaViju"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
         </div>
       <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -189,10 +189,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Event Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Yaseer Quraishi</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/fcrit-aidl-group-2948b5228/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/fcrit-aidl-group-2948b5228/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AIDL-CLUB">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/AIDL-CLUB"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -206,10 +206,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Sponsorship Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Rose Mary Jose</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/rose-mary-jose-43a632286">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/rose-mary-jose-43a632286"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/RoseJ02">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/RoseJ02"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -223,10 +223,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Sponsorship Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Steffi Mary Varghese</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/steffi-varghese-9a40182a0">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/steffi-varghese-9a40182a0"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/steffimv">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/steffimv"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -240,10 +240,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">PR Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Aathisaya Lancy</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/lancy-nadar-301780280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/lancy-nadar-301780280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Lano2703">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/Lano2703"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -257,10 +257,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. PR Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Poorva Raut</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/poorva-raut-896193261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/poorva-raut-896193261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/PoorvaRaut">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/PoorvaRaut"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -275,10 +275,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Creative Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Purva Nerkar</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/purva-nerkar-b22043282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/purva-nerkar-b22043282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/PurvaNerkar4204">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/PurvaNerkar4204"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -294,10 +294,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Asst. Creative Head</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Prisha Bhosale</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/fcrit-aidl-group-2948b5228/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/fcrit-aidl-group-2948b5228/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/prish-a">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/prish-a"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
@@ -313,10 +313,10 @@ return(
           <h1 className="font-dmserif text-3xl font-bold text-white">Treasurer</h1>
           <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">Ananth Balvalli</p>
           <h1 className="font-dmserif text-2xl font-bold text-white">Lets Connect</h1>
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/ananth-balvalli-775b4b27b/">LinkedIn</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://www.linkedin.com/in/ananth-balvalli-775b4b27b/"target="_blank" rel="noopener noreferrer">LinkedIn</a></button>
           <hr className="h-px my-2 bg-gray-200 border-0 dark:bg-gray-700"></hr>
 
-          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/ananthvgb2003">GitHub</a></button>
+          <button className="rounded-full bg-blue-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60"><a className="text-white" href="https://github.com/ananthvgb2003"target="_blank" rel="noopener noreferrer">GitHub</a></button>
         </div>
       
       </div>
