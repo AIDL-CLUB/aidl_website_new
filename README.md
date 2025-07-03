@@ -118,6 +118,10 @@ Optional tools (Future scope):
 
 ---
 
+### Screen video recording of website
+
+[![Watch the video](https://img.youtube.com/vi/lOQmyDf8l3U/0.jpg)](https://youtu.be/lOQmyDf8l3U)
+
 ## Made with ❤️ by AIDL-CLUB.
 
 ### Author- Joshua Vinu Koshy (2023-2025)
