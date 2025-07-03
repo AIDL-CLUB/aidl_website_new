@@ -121,9 +121,10 @@ Optional tools (Future scope):
 ### Screen video recording of website
 <p align="center">
   <a href="https://youtu.be/lOQmyDf8l3U">
-    <img src="https://img.youtube.com/vi/lOQmyDf8l3U/0.jpg" alt="Watch the video" width="600"/>
+    <img src="custom-thumbnail.png" alt="Watch the video" width="600"/>
   </a>
 </p>
+
 
 ## Made with ❤️ by AIDL-CLUB.
 
