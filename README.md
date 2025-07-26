@@ -109,15 +109,6 @@ Optional tools (Future scope):
 
 ---
 
-## ✨ Features
-
-- Responsive design across all devices
-- Modular component-based architecture
-- Modern development tools and live reload
-- Fast build and deployment-ready code
-
----
-
 ### Screen video recording of website
 <p align="center">
   <a href="https://youtu.be/lOQmyDf8l3U">
